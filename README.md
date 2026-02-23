@@ -1,71 +1,78 @@
-👋 Soumya Gupta
+👋 Hi, I’m Soumya Gupta
 
-Engineering Student | Aspiring Software Engineer | Backend & Web Developer
+💫 Engineering Student | Aspiring Software Engineer | Web & Backend Developer
 
-I am an engineering student passionate about software development, data structures, and building scalable applications. I enjoy solving problems and developing real-world projects.
+A passionate developer interested in building scalable applications and solving real-world problems using technology.
 
 🚀 About Me
 
-Engineering student (Pre-final / Final year)
+🌱 Currently learning Full Stack Development & Core CS Concepts
 
-Interested in Backend Development & Web Technologies
+💬 Ask me about MERN Stack, DSA, APIs, Backend Systems
 
-Practicing Data Structures & Algorithms
+⚡ Fun fact: I enjoy debugging and optimizing code more than writing it
 
-Passionate about building real-world applications
+💻 Tech Stack
 
-🛠️ Technical Skills
-
-Programming Languages:
+Languages:
 
 C / C++ / Java / Python / JavaScript
 
-Web Technologies:
+Web & Frameworks:
 
-HTML, CSS, JavaScript, React, Node.js, Express
+HTML5, CSS3, React, Node.js, Express, Next.js
 
 Databases:
 
-MongoDB, MySQL
+MongoDB, MySQL, PostgreSQL
 
 Tools & Platforms:
 
-Git, GitHub, VS Code
+Git, GitHub, Docker, Postman, VS Code, Linux
 
 📂 Projects
-ShareExpress
+🚀 ShareExpress
 
-A file-sharing and content-sharing web application built using Node.js and Express.
+A file and content sharing platform with secure backend APIs.
 
-Users can upload and share files securely
+File upload and sharing functionality
 
-Backend APIs for file handling and storage
+Backend built with Node.js and Express
 
-MongoDB used for storing metadata
+MongoDB for storing file metadata
 
 Tech Stack: Node.js, Express, MongoDB, HTML, CSS
 
-ChitChat
+💬 ChitChat
 
-A real-time chat application with instant messaging features.
+A real-time chat application for instant communication.
 
-Real-time messaging using WebSocket/Socket.IO
+Real-time messaging using Socket.IO
 
 User authentication and chat rooms
 
-Responsive UI for seamless chatting experience
+Responsive UI for seamless chatting
 
-Tech Stack: Node.js, Express, Socket.IO, MongoDB, React/HTML-CSS
+Tech Stack: Node.js, Express, Socket.IO, MongoDB, React
 
-(Add GitHub repo links here)
-Example:
+🌐 Portfolio Website (optional but recommended)
 
-GitHub: https://github.com/your-username/shareexpress
+A personal portfolio showcasing projects and skills.
 
-GitHub: https://github.com/your-username/chitchat
+Responsive design
 
-📫 Contact
+Project showcase section
 
-LinkedIn: your-link
+Contact form
 
-Email: your-email
+Tech Stack: React, HTML, CSS
+
+🧠 DSA & CP Practice Repository
+
+A collection of solved problems from LeetCode, CodeChef, and CodeStudio.
+
+Clean structured solutions
+
+Well-commented code
+
+Focus on optimization and clarity
